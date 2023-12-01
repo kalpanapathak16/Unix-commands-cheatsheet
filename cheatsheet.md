@@ -13,7 +13,8 @@ The following table lists the Unix commands that I learned during the Version Co
 | ls         | Show the contents of the current working directory |
 
 **Note**: Each of these commands has a set of helper instructions. These helpers provide detailed information about how you can run commands and how you can specify certain flags. For example, the `man` command (short for Manual). When called against a command, it displays a detailed manual of instructions for the specified command. For example, `man ls` shows the detailed manual of instructions for the `ls` (list) command. 
-## Flags in conjuctions commands
-| Flag | Usage|
+## Flags used in conjuction with commands
+| Flag | Usage |
+| ---- | ----- |
 | ls -l | Lists the file out, in list order, and shows the read or write permissions, owners and groups it belongs to |
 | ls -a | Lists all files and directories including hidden ones|
